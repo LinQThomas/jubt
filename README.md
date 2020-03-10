@@ -1,2 +1,4 @@
-聚BT 地址发布页
-聚BT最新地址为: https://jubt.gq
+[聚BT地址发布页地址：](https://jubtnet.github.io/jubt)  
+
+[聚BT最新地址为:](https://jubt.gq)
+
