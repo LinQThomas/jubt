@@ -12,9 +12,9 @@
 | [jubt.me](https://jubt.me)    | 最新地址 | 不需要 |  
 | [jubt.top](https://jubt.top) | 最新地址 | 不需要 |  
 
-聚BT浏览器扩展（强烈推荐）：[https://bbs.ijubt.net/thread-299.htm](老司机搜索神器，一键搜索300多个站点)  
+聚BT浏览器扩展（强烈推荐）：[老司机搜索神器，一键搜索300多个站点](https://bbs.ijubt.net/thread-299.htm)  
 
-聚BT论坛：[https://bbs.ijubt.net](bbs.ijubt.net)  
+聚BT论坛：[https://bbs.ijubt.net](https://bbs.ijubt.net)  
 
 支持邮箱：[support@jubt.net](mailto:support@jubt.net)  
 
