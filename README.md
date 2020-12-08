@@ -3,10 +3,14 @@
 
 | 地址       | 类型  | 是否需要翻墙 |  
 | :---       |     :---:      |          ---: |
+| [jubt.cf](https://jubt.cf)    | 最新地址 | 不需要 | 
+| [jubt.ml](https://jubt.ml)    | 最新地址 | 不需要 |  
 | [jubt.gq](https://jubt.gq)    | 最新地址 | 不需要 |  
-| [jubt.cf](https://jubt.cf)    | 最新地址 | 不需要 |  
+| [ijubt.cf](https://ijubt.cf)    | 最新地址 | 不需要 | 
+| [ijubt.ml](https://ijubt.ml)    | 最新地址 | 不需要 | 
+| [ijubt.gq](https://ijubt.gq)    | 最新地址 | 不需要 |  
 | [jubt.me](https://jubt.me)    | 最新地址 | 不需要 |  
-| [jubt.net](https://jubt.net) | 最新地址 | 需要翻墙 |  
+| [jubt.top](https://jubt.top) | 最新地址 | 不需要 |  
 
 
 支持邮箱：[support@jubt.net](mailto:support@jubt.net)  
